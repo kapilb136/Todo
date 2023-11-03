@@ -1,2 +1,3 @@
 # Todo
-My first Flask Repositary
+My first Flask Repository
+Author - Kapil Bhardwaj
